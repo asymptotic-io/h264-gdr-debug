@@ -1,0 +1,23 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-function",
+      "-I/usr/include/gstreamer-1.0",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-4",
+      "-pthread",
+      "-o",
+      "h264-gdr",
+      "h264-gdr.c"
+    ],
+    "directory": "/home/core/asymptotic/paladin/h264-gdr-debug",
+    "file": "/home/core/asymptotic/paladin/h264-gdr-debug/h264-gdr.c",
+    "output": "/home/core/asymptotic/paladin/h264-gdr-debug/h264-gdr"
+  }
+]
